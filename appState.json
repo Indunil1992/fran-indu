@@ -1,0 +1,92 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "9e287c0c-2812-48cd-af22-ede59fa3eb9b": {
+        "id": "9e287c0c-2812-48cd-af22-ede59fa3eb9b",
+        "parent": null,
+        "name": "sachithra.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "sachithra.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": [
+          {
+            "resourceName": "apigeuCentral1induFrankindunilqasnsany",
+            "config": {}
+          }
+        ]
+      }
+    },
+    "openFiles": [
+      "9e287c0c-2812-48cd-af22-ede59fa3eb9b"
+    ],
+    "currentFileId": "9e287c0c-2812-48cd-af22-ede59fa3eb9b",
+    "resources": {
+      "apigeuCentral1induFrankindunilqasnsany": {
+        "name": "apigeuCentral1induFrankindunilqasnsany",
+        "type": "API_GATEWAY",
+        "config": {
+          "selectedRegion": "eu-central-1",
+          "apiMode": 0,
+          "apiName": "indu-frank",
+          "endpointType": "REGIONAL",
+          "resourceMode": 0,
+          "resourceName": "indunil/qa/sns",
+          "resourcePath": "/indunil/qa/sns",
+          "restMethod": "ANY",
+          "proxyIntegration": false,
+          "enableCORS": false,
+          "stageMode": 0,
+          "stageName": "qa",
+          "mode": 0
+        }
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "fran-indu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "eu-central-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1582870746191
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "fran-indu",
+      "url": "https://github.com/Indunil1992/fran-indu"
+    }
+  }
+}

@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "sachithra.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 44
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -80,7 +80,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1582870746191
+    "lastSave": 1582870848236
   },
   "VCS_STATE": {
     "provider": "GitHub",
